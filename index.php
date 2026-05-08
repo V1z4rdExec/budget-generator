@@ -7,7 +7,7 @@
   <title>Gerador de Orçamento</title>
 </head>
 <body>
-<form action="processa.php" method="POST">
+<form action="forms.php" method="POST">
 <div class="container mt-5">
 <div class="card p-5">
 
